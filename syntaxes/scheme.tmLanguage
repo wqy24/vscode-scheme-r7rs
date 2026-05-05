@@ -26,6 +26,7 @@
 		<string>sch</string>
 		<string>rkt</string>
     <string>sf</string>
+    <string>sld</string>
   </array>
 	<key>keyEquivalent</key>
 	<string>^~S</string>
